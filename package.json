@@ -11,6 +11,7 @@
     "start": "npm run dev"
   },
   "dependencies": {
+    "vee-validate": "^2.2.11",
     "vue": "^2.5.2",
     "vue-router": "^3.0.1"
   },
